@@ -8,8 +8,8 @@ Software engineering student at Maltepe University, Istanbul.
   <tr>
     <td width="33%" valign="top">
       <sub>01 / MEMORY</sub>
-      <h3>EfeOS</h3>
-      <p>A second brain that remembers, plans my day and reads my inbox.</p>
+      <h3>Second Brain</h3>
+      <p>My personal AI second brain, customized to remember, plan my day and read my inbox.</p>
     </td>
     <td width="33%" valign="top">
       <sub>02 / CAPSTONE</sub>
