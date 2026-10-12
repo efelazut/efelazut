@@ -1,27 +1,19 @@
-### Hi, I'm Efe.
+# Efe Lazut
 
-Software engineering student at Maltepe University, Istanbul.
+Software engineering student at Maltepe University, Istanbul, looking for a long-term software engineering internship.
 
-## Things I've made
+## What I've built
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <sub>01 / MEMORY</sub>
-      <h3>Second Brain</h3>
-      <p>My personal AI second brain, customized to remember, plan my day and read my inbox.</p>
-    </td>
-    <td width="33%" valign="top">
-      <sub>02 / CAPSTONE</sub>
-      <h3>Agentic Company</h3>
-      <p>A software company run by AI departments. In progress.</p>
-    </td>
-    <td width="33%" valign="top">
-      <sub>03 / GAME</sub>
-      <h3>Toy Hustle</h3>
-      <p>A carnival game about hitting plush toys and paying rent.</p>
-    </td>
-  </tr>
-</table>
+**Personal Second Brain**
+A personal AI assistant I customized for myself. It remembers context across days, plans my schedule and keeps my inbox under control.
 
-📫 lazutefe25@gmail.com
+**Agentic Company** · *capstone, in progress*
+A simulated software company where AI departments do the work and a manager signs off on it, connected to a real ERP system.
+
+## A note on the code
+
+These projects live in private repositories. I'm happy to walk through either one in an interview or a call.
+
+## Contact
+
+lazutefe25@gmail.com · [LinkedIn](https://www.linkedin.com/in/efelazut)
