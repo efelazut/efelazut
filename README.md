@@ -1,35 +1,27 @@
 ### Hi, I'm Efe.
 
-Software engineering student at Maltepe University, Istanbul. I build things with a small team of AI agents: they write the code, I decide what's worth writing.
+Software engineering student at Maltepe University, Istanbul.
 
-## Start here
+## Things I've made
 
 <table>
   <tr>
     <td width="33%" valign="top">
-      <sub>01 / GAME</sub>
-      <h3><a href="https://github.com/efelazut/ToyHustle">Toy Hustle</a></h3>
-      <p>A carnival-themed incremental action game in Unity 6. Built by Codex agents, managed by Claude Code, tested by a QA bot that plays the game itself.</p>
-      <p><a href="https://github.com/efelazut/ToyHustle"><b>See the game →</b></a></p>
-    </td>
-    <td width="33%" valign="top">
-      <sub>02 / MEMORY</sub>
+      <sub>01 / MEMORY</sub>
       <h3>EfeOS</h3>
-      <p>My second brain on Obsidian + Claude Code. Agents remember across sessions, write morning briefs, and read my mail and calendar through MCP.</p>
-      <p><i>Private: it knows too much.</i></p>
+      <p>A second brain that remembers, plans my day and reads my inbox.</p>
     </td>
     <td width="33%" valign="top">
-      <sub>03 / CAPSTONE</sub>
+      <sub>02 / CAPSTONE</sub>
       <h3>Agentic Company</h3>
-      <p>A simulated software company where department agents do the work and a manager approves it. Wired to Odoo ERP.</p>
-      <p><i>In progress.</i></p>
+      <p>A software company run by AI departments. In progress.</p>
+    </td>
+    <td width="33%" valign="top">
+      <sub>03 / GAME</sub>
+      <h3>Toy Hustle</h3>
+      <p>A carnival game about hitting plush toys and paying rent.</p>
     </td>
   </tr>
 </table>
-
-## On the workbench
-Learning Odoo's internals (Sales, Stock, Purchase) and talking to it over RPC.
-
-<sub>C# · Unity · Python · Git · Claude Code · Codex · MCP · Odoo</sub>
 
 📫 lazutefe25@gmail.com
