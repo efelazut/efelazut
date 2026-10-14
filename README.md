@@ -1,6 +1,6 @@
 # Efe Lazut
 
-Software engineering student at Maltepe University, Istanbul, looking for a long-term software engineering internship.
+Software engineering student at Maltepe University.
 
 ## What I've built
 
